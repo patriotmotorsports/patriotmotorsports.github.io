@@ -11,16 +11,14 @@
         </a>
       </div>
     </div>
-<!--
-    <div class="sponor-tier bronze section">
-      <h2>Bronze Tier Sponsors</h2>
+    <div class="sponor-tier black section">
+      <h2>Black Tier Sponsors</h2>
       <div class="sponor-list">
-        <a href="https://prosystembrakes.com/" target="_blank">
-          <img src="/Sponsorship/Pro-System.jpg" alt="Pro System Brakes" />
+        <a href="https://walmart.com" style="max-width:20vw;" target="_blank">
+          <img src="/Sponsorship/Walmart.svg" alt="Walmart" />
         </a>
       </div>
     </div>
--->
   </section>
 
   <section class="section">
@@ -28,16 +26,18 @@
     <div class="section-content">
       <p>Interested in sponsoring Patriot Motorsports?</p>
       <p>
-        Contact us at <a href="mailto:formulasaemason@gmail.com"
-          >formulasaemason@gmail.com</a
+        Contact us at <a href="mailto:sponsorship@patriotfsae.com"
+          >sponsorship@patriotfsae.com</a
         >
       </p>
-      <p>
+      <!--<p>
         To learn more, read through our <a
-          href="https://drive.google.com/file/d/1zwZ_kFFH7xAq9MSAw8ZWn2KdPo4UV8om/view"
-          target="_blank">sponsorship package</a
+          on:click={(e) => {
+            e.preventDefault();
+          }}
+          href="#">sponsorship package</a
         >, view our current sponsors, or email us for more information.
-      </p>
+      </p>-->
     </div>
   </section>
 </main>

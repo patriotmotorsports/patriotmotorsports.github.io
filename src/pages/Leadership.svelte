@@ -1,8 +1,8 @@
 <main class="content">
   <section class="section">
-    <div class="img"><img src="/leadership/Mar.jpg" alt="Mar 2025" /></div>
+    <div class="img"><img src="/leadership/President.jpg" alt="President" /></div>
     <div class="text" style="text-align:left;">
-      <h1>Mar Herbin</h1>
+      <h1>Adriano Ruiz Yanez</h1>
       <h3>President</h3>
     </div>
   </section>
@@ -11,26 +11,26 @@
       <h1>Zach Sprouse</h1>
       <h3>Vice President</h3>
     </div>
-    <div class="img"><img src="/leadership/Zach.jpg" alt="Zach 2025" /></div>
+    <div class="img"><img src="/leadership/VicePresident.jpg" alt="Vice President" /></div>
   </section>
   <section class="section">
-    <div class="img"><img src="/leadership/Sarah.jpg" alt="Sarah 2025" /></div>
+    <div class="img"><img src="/leadership/Treasurer.jpg" alt="Treasurer" /></div>
     <div class="text" style="text-align:left;">
-      <h1>Sarah Remley</h1>
+      <h1>Narayana Sundarrajan</h1>
       <h3>Treasurer</h3>
     </div>
   </section>
   <section class="section">
     <div class="text" style="text-align:right;">
-      <h1>Sydney Pettit</h1>
+      <h1>Alexander English</h1>
       <h3>Secretary</h3>
     </div>
-    <div class="img"><img src="/leadership/Sydney.jpg" alt="Sydney 2025" /></div>
+    <div class="img"><img src="/leadership/Secretary.jpg" alt="Secretary" /></div>
   </section>
   <section class="section">
-    <div class="img"><img src="/leadership/Austin.jpg" alt="Austin 2025" /></div>
+    <div class="img"><img src="/leadership/PowertrainTeamLead.jpg" alt="Powertrain Team Lead" /></div>
     <div class="text">
-      <h1>Austin Conaway</h1>
+      <h1>Tommy Nguyen</h1>
       <h3>Powertrain Team Lead</h3>
     </div>
   </section>

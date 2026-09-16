@@ -219,12 +219,24 @@ footer {
     margin-bottom: 2rem;
 }
 
-.gold h2 {
-    color: #ffd966;
+.patriot h2 {
+    color: #ffdc74;
 }
 
-.bronze h2 {
-    color: #b45f06;
+.gold h2 {
+    color: #f9c835;
+}
+
+.green h2 {
+    color: #66e71c;
+}
+
+.black h2 {
+    color: #222;
+}
+
+.friendsofmason h2 {
+    color: #004225;
 }
 
 .sponsor-list {
