@@ -8,6 +8,16 @@
   </head>
   <body>
     <div id="app"></div>
+    <script>
+      (function () {
+        var redirectParam = new URLSearchParams(window.location.search).get(
+          "p",
+        );
+        if (redirectParam) {
+          window.history.replaceState(null, null, redirectParam);
+        }
+      })();
+    </script>
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Patriot Motorsports</title>
+  <script>
+    // Convert 404 path into a query parameter on the root domain
+    var path = window.location.pathname;
+    var search = window.location.search;
+    var hash = window.location.hash;
+    window.location.replace(
+      window.location.origin + '/?p=' + encodeURIComponent(path + search) + hash
+    );
+  </script>
+</head>
+<body></body>
+</html>
