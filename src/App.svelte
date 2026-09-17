@@ -11,12 +11,16 @@
   export let route = "/home";
 
   function updateRoute() {
-    const p = location.pathname.replace(/\/+$/, "");
+    // Remove trailing slashes
+    let p = location.pathname.replace(/\/+$/, "");
+
+    // Extract the last segment of the path (e.g., /about instead of /repo-name/about)
+    p = p.substring(p.lastIndexOf("/"));
+
     if (!p || p === "/" || p === "/index.html") {
       route = "/home";
       return;
     }
-    // map to our simple routes
     route = p;
   }
 
@@ -47,7 +51,7 @@
       .slice(1)
       .replace(
         /\w\S*/g,
-        (t) => t.charAt(0).toUpperCase() + t.substring(1).toLowerCase()
+        (t) => t.charAt(0).toUpperCase() + t.substring(1).toLowerCase(),
       )}</title
   >
   <meta property="og:title" content="Patriot Motorsports" />
@@ -55,10 +59,7 @@
     property="og:description"
     content="George Mason University's FSAE Team."
   />
-  <meta
-    property="og:image"
-    content="https://patriotfsae.vercel.app/logo.jpg"
-  />
+  <meta property="og:image" content="https://patriotfsae.vercel.app/logo.jpg" />
   <meta
     property="og:url"
     content="https://patriotfsae.vercel.app/"
