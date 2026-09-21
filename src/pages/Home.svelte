@@ -1,3 +1,5 @@
+
+
 <section class="hero" style="background-image: url('/Home/Hero.jpg')">
   <div class="hero-content">
     <img src="/Home/PatriotMotorsports.jpg" alt="Patriot Motorsports" />
