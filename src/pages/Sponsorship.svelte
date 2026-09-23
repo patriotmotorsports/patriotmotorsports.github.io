@@ -1,4 +1,21 @@
 <main class="content">
+  <section class="section">
+    <h1 class="section-title">Sponsorship</h1>
+    <div class="section-content">
+      <p>Interested in sponsoring Patriot Motorsports?</p>
+      <p>
+        Contact us at <a href="mailto:formulasaemason@gmail.com"
+          >formulasaemason@gmail.com</a
+        >
+      </p>
+      <p>
+        To learn more, read through our <a
+          href="https://www.canva.com/design/DAHJ2jYzJ-k/PTp04jcLJ1nBwrMzN3FnUw/edit"
+          >sponsorship package</a
+        >, view our current sponsors, or email us for more information.
+      </p>
+    </div>
+  </section>
   <section class="sponors">
     <div class="sponor-tier gold section">
       <h2>Gold Tier Sponsors</h2>
@@ -21,23 +38,4 @@
     </div>
   </section>
 
-  <section class="section">
-    <h1 class="section-title">Sponsorship</h1>
-    <div class="section-content">
-      <p>Interested in sponsoring Patriot Motorsports?</p>
-      <p>
-        Contact us at <a href="mailto:sponsorship@patriotfsae.com"
-          >sponsorship@patriotfsae.com</a
-        >
-      </p>
-      <!--<p>
-        To learn more, read through our <a
-          on:click={(e) => {
-            e.preventDefault();
-          }}
-          href="#">sponsorship package</a
-        >, view our current sponsors, or email us for more information.
-      </p>-->
-    </div>
-  </section>
 </main>
