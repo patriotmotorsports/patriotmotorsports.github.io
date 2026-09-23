@@ -9,7 +9,7 @@
   <section class="section cta-section">
     <div class="cta-container">
       <h2 class="cta-title">
-        <a href="https://mason360.gmu.edu/MF1/club_signup" target="_blank">Sign Up Today</a>
+        <a href="https://mason360.gmu.edu/MF1/club_signup" target="_blank">Sign Up Today!</a>
       </h2>
     </div>
   </section>
