@@ -35,7 +35,7 @@
           href: "https://solidworks.com",
           src: "/Sponsorship/Sponsors/SolidWorks-Logo.png",
           alt: "Walmart",
-          style: "max-width:20vw;",
+          style: "",
         },
       ],
     },
@@ -47,7 +47,7 @@
           href: "https://walmart.com",
           src: "/Sponsorship/Sponsors/Walmart_logo_(2025).svg",
           alt: "Walmart",
-          style: "max-width:20vw;",
+          style: ";",
         },],
     },
   ];
