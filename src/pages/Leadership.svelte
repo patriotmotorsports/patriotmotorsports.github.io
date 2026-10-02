@@ -36,7 +36,7 @@
   </section>
 </main>
 
-<style scoped>
+<style>
   section {
     padding: 32px 20vw;
     display: flex;
