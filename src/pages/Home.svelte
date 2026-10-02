@@ -414,7 +414,7 @@
   .panel p:last-child {
     position: relative;
     font-size: 1.15rem;
-    font-weight: 500;
+    font-weight: 600;
   }
   .dots {
     display: flex;

@@ -25,7 +25,7 @@
         </svg>
       </button>
       <a href="/home" on:click|preventDefault={() => navigate("/home")}>
-        <img src="/logo.webp" alt="Patriot Motorsports Logo" />
+        <img src="/logo.webp" height="36" alt="Patriot Motorsports Logo" />
       </a>
     </div>
     <div class="nav-links">

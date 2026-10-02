@@ -55,7 +55,7 @@
   }
 
   section .text h3{
-    font-weight:normal;
+    font-weight:600;
   }
   section .text {
     padding: 16px;
